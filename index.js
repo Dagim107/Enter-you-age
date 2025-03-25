@@ -11,7 +11,7 @@ submit.onclick = function () {
         banner.textContent = `Too Old to Drink! 🤷🏾`;
     }
     else if (age <= 0) {
-        banner.textContent = `You have to be born to drink buddy! 😭`
+        banner.textContent = `You're not even born! 😭`
     }
     else if (age < 21) {
         banner.textContent = `You are too young to drink! 🛑`

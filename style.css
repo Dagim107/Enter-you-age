@@ -40,11 +40,13 @@ body {
 #submit {
     margin-top: 10px;
     background-color: rgb(110, 157, 244);
+    color: white;
     border: 0px;
-    padding: 5px;
+    padding: 5px 53px;
     font-size: 1em;
     transition: 0.25s;
     border-radius: 2px;
+    
 }
 
 #submit:hover {
